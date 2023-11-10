@@ -1,0 +1,21 @@
+<svg width="608" height="390" viewBox="0 0 608 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="594.132" cy="417.867" rx="417.868" ry="417.868" transform="rotate(-180 594.132 417.867)" fill="#2353F5" fill-opacity="0.05"/>
+<ellipse cx="594.135" cy="417.866" rx="313.021" ry="313.021" transform="rotate(-180 594.135 417.866)" fill="#2353F5" fill-opacity="0.05"/>
+<ellipse cx="594.89" cy="417.105" rx="228.688" ry="228.688" transform="rotate(-180 594.89 417.105)" fill="#2353F5" fill-opacity="0.05"/>
+<ellipse cx="594.134" cy="417.865" rx="167.147" ry="167.147" transform="rotate(-180 594.134 417.865)" fill="#2353F5" fill-opacity="0.05"/>
+<ellipse cx="594.134" cy="417.868" rx="112.444" ry="112.444" transform="rotate(-180 594.134 417.868)" fill="#2353F5" fill-opacity="0.05"/>
+<ellipse opacity="0.5" cx="594.13" cy="417.868" rx="77.4955" ry="77.4955" transform="rotate(-180 594.13 417.868)" fill="#2353F5"/>
+<ellipse cx="594.133" cy="417.868" rx="51.6637" ry="51.6637" transform="rotate(-180 594.133 417.868)" fill="#2353F5"/>
+<rect y="390" width="320" height="608" transform="rotate(-90 0 390)" fill="url(#paint0_linear_82_183647)"/>
+<rect y="390" width="320" height="608" transform="rotate(-90 0 390)" fill="url(#paint1_linear_82_183647)"/>
+<defs>
+<linearGradient id="paint0_linear_82_183647" x1="23.9833" y1="694.151" x2="309.597" y2="694.15" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F3F5F6"/>
+<stop offset="1" stop-color="#F3F5F6" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_82_183647" x1="23.9833" y1="694.151" x2="309.597" y2="694.15" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
